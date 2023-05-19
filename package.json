@@ -1,0 +1,19 @@
+{
+  "name": "com.zhongxiaoerbao.unity.editortools",
+  "version": "1.0.1",
+  "displayName": "Editor Tools",
+  "description": "This is an example package",
+  "unity": "2018.3",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "keywords": [],
+  "author": {
+    "name": "zhongxiaoerbao",
+    "email": "zhongxiaoerbao@qq.com"
+  },
+  "type": "tool",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.1.0"
+  }
+}

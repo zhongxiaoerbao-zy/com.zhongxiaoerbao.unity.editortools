@@ -1,0 +1,265 @@
+{
+  "name": "Assets",
+  "child": [
+    {
+      "name": "0_Developer",
+      "child": []
+    },
+    {
+      "name": "Editor",
+      "child": []
+    },
+    {
+      "name": "A_U3DLibrary",
+      "child": []
+    },
+    {
+      "name": "Plugins",
+      "child": [
+        {
+          "name": "Android",
+          "child": []
+        },
+        {
+          "name": "iOS",
+          "child": []
+        },
+        {
+          "name": "Special",
+          "child": []
+        }
+      ]
+    },
+    {
+      "name": "StreamingAssets",
+      "child": []
+    },
+    {
+      "name": "Project",
+      "child": [
+        {
+          "name": "Animator",
+          "child": [
+            {
+              "name": "Animals",
+              "child": []
+            },
+            {
+              "name": "NPC",
+              "child": []
+            },
+            {
+              "name": "Player",
+              "child": []
+            },
+            {
+              "name": "UI",
+              "child": []
+            },
+            {
+              "name": "Vehicles",
+              "child": []
+            },
+            {
+              "name": "Weapons",
+              "child": []
+            }
+          ]
+        },
+        {
+          "name": "Art",
+          "child": [
+            {
+              "name": "Materials",
+              "child": [
+                {
+                  "name": "Background",
+                  "child": []
+                },
+                {
+                  "name": "General",
+                  "child": []
+                },
+                {
+                  "name": "Others",
+                  "child": []
+                },
+                {
+                  "name": "Sky",
+                  "child": []
+                },
+                {
+                  "name": "Water",
+                  "child": []
+                }
+              ]
+            },
+            {
+              "name": "Meshes",
+              "child": [
+                {
+                  "name": "Animals",
+                  "child": []
+                },
+                {
+                  "name": "Buildings",
+                  "child": []
+                },
+                {
+                  "name": "Family",
+                  "child": []
+                },
+                {
+                  "name": "Foliage",
+                  "child": []
+                },
+                {
+                  "name": "NPC",
+                  "child": []
+                },
+                {
+                  "name": "Offices",
+                  "child": []
+                },
+                {
+                  "name": "Others",
+                  "child": []
+                },
+                {
+                  "name": "Player",
+                  "child": []
+                },
+                {
+                  "name": "Props",
+                  "child": []
+                },
+                {
+                  "name": "Vehicles",
+                  "child": []
+                },
+                {
+                  "name": "Weapons",
+                  "child": []
+                }
+              ]
+            },
+            {
+              "name": "Particles",
+              "child": []
+            },
+            {
+              "name": "PostProcess",
+              "child": []
+            },
+            {
+              "name": "RenderTextures",
+              "child": []
+            },
+            {
+              "name": "Textures",
+              "child": [
+                {
+                  "name": "General",
+                  "child": []
+                },
+                {
+                  "name": "HDR",
+                  "child": []
+                },
+                {
+                  "name": "VFX",
+                  "child": []
+                }
+              ]
+            },
+            {
+              "name": "UI",
+              "child": [
+                {
+                  "name": "Fonts",
+                  "child": []
+                },
+                {
+                  "name": "Icons",
+                  "child": []
+                },
+                {
+                  "name": "Sprites",
+                  "child": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Code",
+          "child": [
+            {
+              "name": "Editor",
+              "child": []
+            },
+            {
+              "name": "Scripts",
+              "child": []
+            },
+            {
+              "name": "Shaders",
+              "child": []
+            }
+          ]
+        },
+        {
+          "name": "Level",
+          "child": [
+            {
+              "name": "Prefabs",
+              "child": []
+            },
+            {
+              "name": "Scenes",
+              "child": []
+            }
+          ]
+        },
+        {
+          "name": "Media",
+          "child": [
+            {
+              "name": "Audio",
+              "child": [
+                {
+                  "name": "Music",
+                  "child": []
+                },
+                {
+                  "name": "Sound",
+                  "child": []
+                }
+              ]
+            },
+            {
+              "name": "Video",
+              "child": []
+            }
+          ]
+        },
+        {
+          "name": "Resources",
+          "child": []
+        },
+        {
+          "name": "Sequences",
+          "child": []
+        },
+        {
+          "name": "Settings",
+          "child": []
+        },
+        {
+          "name": "Particles",
+          "child": []
+        }
+      ]
+    }
+  ]
+}
